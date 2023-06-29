@@ -1,4 +1,4 @@
-My first Sql Codes 
+Database of a profitable organization
 
 Project 
 
